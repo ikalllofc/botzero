@@ -10,10 +10,10 @@
 
 //==========[ EDIT TERSERAH LUH ERROR ULANGI LAGI ]==========
 
-owner = '6285157072227' //Ganti Nomor Luh
-botname = 'Shan-Bots' //Ganti Nama Bot Luh
+owner = '6289696454872' //Ganti Nomor Luh
+botname = 'IKAL BOTZ' //Ganti Nama Bot Luh
 zerokey = 'ZeroYT7' //Gak Usah Di Ganti
-ownername = 'HanifGanz' //Ganti Nama Owner
+ownername = 'IKAL OFC' //Ganti Nama Owner
 
 const { fetchJosn, fetchText } = require('./lib/fetcher')
 const { color, bgcolor } = require('./lib/color')
@@ -448,9 +448,9 @@ break
 
 case 'bayar':
 menu =` *「PAYMENT」*
-• GOPAY : https://telegra.ph/file/49d81aeb7b94c382a93a7.jpg
-• DANA : https://telegra.ph/file/ac19750d9b9c0d7e0ab0c.jpg
-• OVO : https://telegra.ph/file/1c5b7f1db911def1ee745.jpg
+• GOPAY : 085363810820
+• DANA : 089603042257 
+• PULSA : 089603042257 
 ━━━━━━━━━━━━━━━━━━━━`
 fakeitem(menu)
 break
